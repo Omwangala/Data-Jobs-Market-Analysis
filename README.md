@@ -1,4 +1,4 @@
-📊 Data Analysis with Python
+📊 Data-Jobs-Market-Analysis
 📌 Project Overview
 
 This project explores salary trends, job skills analysis, and workforce trends using Python. The dataset has been processed and analyzed using Exploratory Data Analysis (EDA) techniques to extract meaningful insights into salary distribution, skill demands, and career trends in different industries.
